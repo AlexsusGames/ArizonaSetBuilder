@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddcaf4709c9fe864593f491aa890077f, type: 3}
+  m_Name: GoldCrown
+  m_EditorClassIdentifier: 
+  Name: "\u0417\u043E\u043B\u043E\u0442\u0430\u044F \u043A\u043E\u0440\u043E\u043D\u0430"
+  Description: 
+  Icon: {fileID: 21300000, guid: 83b97a24fe4b511419183f7c9612e712, type: 3}
+  SlotType: 1
+  DefaultStats:
+  - StatType: 1
+    Amount: 1
+  - StatType: 3
+    Amount: 10
+  - StatType: 5
+    Amount: 1
+  YellowStats: []
+  ImprovingStats: 03000000
+  CanBeImprovedTo13: 1

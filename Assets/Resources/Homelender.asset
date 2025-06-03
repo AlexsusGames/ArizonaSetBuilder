@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddcaf4709c9fe864593f491aa890077f, type: 3}
+  m_Name: Homelender
+  m_EditorClassIdentifier: 
+  Name: "\u0425\u043E\u0443\u043C\u043B\u0435\u043D\u0434\u0435\u0440"
+  Description: 
+  Icon: {fileID: 21300000, guid: 7e3265bad9f497d4f867d3e86b1425f7, type: 3}
+  SlotType: 8
+  DefaultStats:
+  - StatType: 5
+    Amount: 100
+  YellowStats: []
+  ImprovingStats: 010000000200000003000000
+  CanBeImprovedTo13: 0
